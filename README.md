@@ -1,3 +1,4 @@
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/WesleyTheGeolien/Tips-and-tricks-for-the-geostatistician/master?filepath=elevation_assignation.ipynb)
 # Small_tricks
 Small hacks useful for the data scientist and geostatistician
 
